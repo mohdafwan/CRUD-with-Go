@@ -20,9 +20,9 @@ A simple RESTful API for managing movies and their directors, implemented in Go 
 - JSON (Data serialization format)
 
 ## How to Run
-
-1. **Clone the repository:**
+**Clone the repository and Build**
 
    ```bash
    git clone https://github.com/your-username/movie-management-api.git
    cd movie-management-api
+   go run build || go run .
