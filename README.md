@@ -20,7 +20,7 @@ A simple RESTful API for managing movies and their directors, implemented in Go 
 - JSON (Data serialization format)
 
 ## How to Run
--[https://v1-service.onrender.com/movies/](https://v1-service.onrender.com/movies/)
+[https://v1-service.onrender.com/movies/](https://v1-service.onrender.com/movies/)
 
 **Clone the repository and Build**
 
